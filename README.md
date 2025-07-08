@@ -34,8 +34,8 @@
 
 ## ✨ Screenshots
 
-![Gameplay Screenshot 1](Screenshots/Screenshot 1.png)
-![Gameplay Screenshot 2](Screenshots/Screenshot 2.png)
+![Gameplay Screenshot 1](https://github.com/Kesin2540/Zombie-Game-project/blob/main/Screenshots/Screenshot%201.png?raw=true)
+![Gameplay Screenshot 2](https://github.com/Kesin2540/Zombie-Game-project/blob/main/Screenshots/Screenshot%202.png?raw=true)
 
 ---
 
