@@ -58,7 +58,7 @@ HauntedZombieRush/
 ├── README.md
 ```
 
-> Note: This repository contains the full Unity project. To run or modify the game, open it using Unity (version XX.X or later recommended).
+> Note: This repository contains the full Unity project. To run or modify the game, open it using Unity.
 
 ---
 
@@ -67,3 +67,10 @@ HauntedZombieRush/
 1. Clone the repository:
    ```bash
    git clone https://github.com/Kesin2540/haunted-zombie-rush.git
+
+---
+A pre-release build of Haunted Zombie Rush is available in the [Releases section](https://github.com/Kesin2540/Zombie-Game-project/releases/tag/v0.1).
+This version is a work in progress and may not function correctly on all devices.
+
+⚠️ This is an early build intended for testing and feedback.
+Features, performance, and compatibility are still being improved.
