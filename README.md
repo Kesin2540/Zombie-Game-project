@@ -53,6 +53,7 @@ HauntedZombieRush/
 ├── Assets/
 ├── Packages/
 ├── ProjectSettings/
+├── Screenshots/
 ├── .gitignore
 ├── README.md
 ```
