@@ -34,8 +34,8 @@
 
 ## ✨ Screenshots
 
-![Gameplay Screenshot 1](Screenshots/Screenshot 1)
-![Gameplay Screenshot 2](Screenshots/Screenshot 2)
+![Gameplay Screenshot 1](Screenshots/Screenshot 1.png)
+![Gameplay Screenshot 2](Screenshots/Screenshot 2.png)
 
 ---
 
